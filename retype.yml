@@ -1,0 +1,23 @@
+input: .
+output: build
+url: https://ananya-184.github.io/0x08-2d-animation-project/ # Add your website here
+branding:
+  title: The Flappy Bird
+  label: Docs
+poweredByRetype: false # Set to false to remove the Powered by Retype branding.
+                      # A Retype Pro license is required.
+                      # See: https://retype.com/pro
+links:
+  - text: Reyyan Ahmed (102103444)
+    text: [!ref icon="/static/mark-github.svg"]
+    link: https://linkedin.com/in/reyyanahmed
+  - text: Ananya Gupta (102283009)
+    link: https://www.linkedin.com/in/ananya-gupta-a2b73b230/
+  - text: Armaan Saggu (102103435)
+    link: https://www.linkedin.com/in/armaan-saggu-873643243
+
+favicon: static/favicon.ico
+
+
+footer:
+  copyright: "&copy; Copyright . All rights reserved ❤️ The Flappy Fiskers."
